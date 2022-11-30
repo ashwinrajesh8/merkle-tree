@@ -1,4 +1,4 @@
-# merkle-tree
+# merkle-tree https://medium.com/smucs/merkle-trees-69da69221f8c
 C++ implementation of a self balancing merkle tree
 
 ## Sample Input
